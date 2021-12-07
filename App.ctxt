@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=App
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=assentos
+comment2.target=void\ mostrarAssentos(java.lang.String[][])
+comment3.params=lugaresLivres\ lugaresOcupados\ lugaresPorTipoLivres\ lugaresPorTipoOcupados
+comment3.target=java.lang.String\ reservarAssento(java.lang.String[][],\ java.lang.String[][],\ java.lang.String[][],\ java.lang.String[][])
+comment4.params=lugaresLivres\ lugaresOcupados\ lugaresPorTipoLivres\ lugaresPorTipoOcupados
+comment4.target=java.lang.String\ liberarReserva(java.lang.String[][],\ java.lang.String[][],\ java.lang.String[][],\ java.lang.String[][])
+comment5.params=lugaresLivres\ lugaresOcupados\ lugaresPorTipoLivres\ lugaresPorTipoOcupados
+comment5.target=java.lang.String\ procurarAssentoLivrePorTipo(java.lang.String[][],\ java.lang.String[][],\ java.lang.String[][],\ java.lang.String[][])
+comment6.params=lugaresPorTipoOcupados
+comment6.target=java.lang.String\ exibirEstatistica(java.lang.String[][])
+numComments=7
