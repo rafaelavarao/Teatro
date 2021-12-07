@@ -8,7 +8,7 @@ TÍTULO DO PROJETO: Teatro
 OBJETIVO DO PROJETO: Exercicio Avaliativo 5
 VERSÃO ou DATA:
 COMO INICIAR O PROJETO:
-AUTORES:
+AUTORES: RAFAELA VARÃO ALBUQUERQUE
 INSTRUÇÕES PARA O USUÁRIO: 
 (ENUNCIADO)"Um teatro possui a disposição de assentos apresentada na figura. Há três
 tipos de assentos: Premium (em verde), Comum (em laranja) e
